@@ -1,0 +1,42 @@
+_repo: The-festival_68553
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brosnatch, Andrew
+    birthdate: 1896
+    deathdate: 1965
+    gutenberg_agent_id: '54815'
+    url: http://www.gutenberg.org/2009/agents/54815
+creator:
+  author:
+    agent_name: Lovecraft, H. P. (Howard Phillips)
+    aliases:
+    - Littlewit, Humphrey
+    - Lovecraft, Howard Phillips
+    birthdate: 1890
+    deathdate: 1937
+    gutenberg_agent_id: '34724'
+    url: http://www.gutenberg.org/2009/agents/34724
+    wikipedia: https://en.wikipedia.org/wiki/H._P._Lovecraft
+description: ''
+gutenberg_issued: '2022-07-18'
+identifiers:
+  gutenberg: '68553'
+language: en
+pgterms:marc904: https://archive.org/details/WeirdTalesV05N01192501
+pgterms:marc905: 20220712205809lovecraft
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Roger Frank
+publication_note: United States :Popular Fiction Publishing Company,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'New England -- Fiction'
+- !lcsh 'Horror tales'
+- !lcsh 'Short stories'
+- GITenberg
+title: The festival
+url: http://www.gutenberg.org/ebooks/68553
